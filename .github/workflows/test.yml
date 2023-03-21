@@ -7,9 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: echo a
-      string
-        run:echo "hello"
+        run: echo "hello"
       - name: multiline
       script
-        run |
+        run: |
           python3 main.py
