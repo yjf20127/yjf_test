@@ -10,4 +10,4 @@ jobs:
         run: echo "hello"
       - name: multiline
         run: |
-          python3 ../../main.py
+          python3 ../main.py
