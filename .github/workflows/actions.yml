@@ -20,4 +20,4 @@ jobs:
     steps:
     - name: Test with pytest
       run: |
-        main.py
+        python3 main.py
