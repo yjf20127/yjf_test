@@ -10,4 +10,4 @@ jobs:
         run: echo "hello"
       - name: multiline
         run: |
-          python3 https://github.com/yjf20127/yjf_test/blob/main/main.py
+          python3 main.py
