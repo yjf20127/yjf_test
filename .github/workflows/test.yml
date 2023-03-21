@@ -9,5 +9,5 @@ jobs:
       - name: echo a
         run: echo "hello"
       - name: multiline
-      - script: |
+      - run: |
           python3 main.py
