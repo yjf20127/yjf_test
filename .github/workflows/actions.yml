@@ -19,5 +19,4 @@ jobs:
 
     steps:
     - name: Test with pytest
-      run: |
-        python3 yjf_test/main.py
+      run: python3 yjf_test/main.py
